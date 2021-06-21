@@ -5,7 +5,7 @@
 * eat
 * sleep zzz
 
-**what are talented skills?**
+**what are my talented skills?**
 * sleep
 * eat
 * then sleep
